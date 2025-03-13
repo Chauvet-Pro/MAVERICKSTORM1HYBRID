@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.240826 - Maverick Storm 1 Hybrid](https://github.com/Chauvet-Pro/MAVERICKSTORM1HYBRID/blob/f71c43ee55c4bfd3bffb3796004232512974f886/firmware/V1.240826.zip)
+- Cancel HTP for sACN operation
+
 [V1.240103 - Maverick Storm 1 Hybrid](https://github.com/Chauvet-Pro/MAVERICKSTORM1HYBRID/blob/24eb36d7b53355e77e9dc43432010ccb0c58a063/firmware/V1.240103.zip)
 - Added Sky Tracker mode
 - Fixed IGMP subscription issue
