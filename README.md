@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.250630 - Maverick Storm 1 Hybrid](https://github.com/Chauvet-Pro/MAVERICKSTORM1HYBRID/blob/5f709efbb5e1936be7a9ead24570aaedaa6e7d87/firmware/V1.250630.zip)
+- USB-C Port is defaulted to OFF until it is turned on in the menu.  Once a software update is completed, the port will turn off again.
+
 [V1.240826 - Maverick Storm 1 Hybrid](https://github.com/Chauvet-Pro/MAVERICKSTORM1HYBRID/blob/f71c43ee55c4bfd3bffb3796004232512974f886/firmware/V1.240826.zip)
 - Cancel HTP for sACN operation
 
